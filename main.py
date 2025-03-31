@@ -1,9 +1,4 @@
-import StringIO
-import json
-import logging
-import random
-import urllib
-import urllib2
+
 
 # for sending images
 from PIL import Image
